@@ -2,51 +2,51 @@
     {
         "name": "ahmed",
         "code": "0001",
-        "imagePath": "/assets/images/cat1.jpeg"
+        "imagePath": "http://localhost:4200/assets/images/cat1.jpeg"
     },
     {
         "name": "mohamed",
         "code": "0001.0003.0004.0002",
-        "imagePath": "/assets/images/cat2.jpg"
+        "imagePath": "http://localhost:4200/assets/images/cat2.jpg"
     },
     {
         "name": "ali",
         "code": "0001.0003",
-        "imagePath": "/assets/images/cat3.jpg"
+        "imagePath": "http://localhost:4200/assets/images/cat3.jpg"
     },
     {
         "name": "ibrahim",
         "code": "0001.0003.0004",
-        "imagePath": "/assets/images/cat4.jpg"
+        "imagePath": "http://localhost:4200/assets/images/cat4.jpg"
     },
     {
         "name": "mahmoud",
         "code": "0001.0010.0005",
-        "imagePath": "/assets/images/cat5.jpg"
+        "imagePath": "http://localhost:4200/assets/images/cat5.jpg"
     },
     {
         "name": "samy",
         "code": "0001.0010.0006",
-        "imagePath": "/assets/images/cat6.jpg"
+        "imagePath": "http://localhost:4200/assets/images/dog4.jpg"
     },
     {
         "name": "hany",
         "code": "0001.0003.0004.0007",
-        "imagePath": "/assets/images/dog1.jpeg"
+        "imagePath": "http://localhost:4200/assets/images/dog1.jpeg"
     },
     {
         "name": "samir",
         "code": "0001.0010.0005.0008",
-        "imagePath": "/assets/images/dog2.jpg"
+        "imagePath": "http://localhost:4200/assets/images/dog2.jpg"
     },
     {
         "name": "khalid",
         "code": "0001.0010.0006.0009",
-        "imagePath": "/assets/images/dog3.jpeg"
+        "imagePath": "http://localhost:4200/assets/images/dog3.jpeg"
     },
     {
         "name": "abdullah",
         "code": "0001.0010",
-        "imagePath": "/assets/images/dog4.jpg"
+        "imagePath": "http://localhost:4200/assets/images/cat6.jpg"
     }
 ]
